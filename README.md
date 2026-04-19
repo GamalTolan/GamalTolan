@@ -1,10 +1,11 @@
 <div align="center">
 
 # 👋 Hi, I'm Gamal Tolan  
-### .NET Backend Developer · Software Engineer
+### 💻 .NET Backend Developer | Problem Solver
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/GamalTolan) 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gamaltolan4@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-GamalTolan-blue?logo=linkedin)](https://www.linkedin.com/in/GamalTolan)
+[![Email](https://img.shields.io/badge/Email-gamaltolan4@gmail.com-red?logo=gmail)](mailto:gamaltolan4@gmail.com)
+
 </div>
 
 ---
