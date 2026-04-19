@@ -37,8 +37,8 @@
 ### ⚙️ Architecture & Design
 - SOLID Principles
 - Design Patterns 
-- Clean Architecture
-- Layered Architecture
+- Onion Architecture
+- N-tier Architecture
 
 ---
 
