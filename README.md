@@ -5,7 +5,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/GamalTolan)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gamaltolan4@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=GamalTolan&style=for-the-badge&color=0e7a4e)](https://github.com/GamalTolan)
 
 </div>
 
