@@ -4,8 +4,8 @@
 ### 💻 .NET Backend Developer | Software Engineer
 
 ## 🌐 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/GamalTolan)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gamaltolan4@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/GamalTolan)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gamaltolan4@gmail.com)
 
 ---
 
@@ -15,9 +15,9 @@
 
 ## 🧠 Core Languages
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![C#](https://img.shields.io/badge/C%23-9B4F96?style=flat-square&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffdd54)
 
 ---
 
@@ -27,7 +27,7 @@
 ![Web API](https://img.shields.io/badge/Web_API-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-FB015B?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
 ---
@@ -42,16 +42,16 @@
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=flat-square&logo=bootstrap&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 ---
 
 ## ⚙️ Architecture & Design
 
-![SOLID](https://img.shields.io/badge/SOLID_Principles-0e7a4e?style=flat-square)
-![Design Patterns](https://img.shields.io/badge/Design_Patterns-0e7a4e?style=flat-square)
-![Onion](https://img.shields.io/badge/Onion_Architecture-0e7a4e?style=flat-square)
-![N-Tier](https://img.shields.io/badge/N--Tier_Architecture-0e7a4e?style=flat-square)
+![SOLID](https://img.shields.io/badge/SOLID_Principles-9B4F96?style=flat-square)
+![Design Patterns](https://img.shields.io/badge/Design_Patterns-9B4F96?style=flat-square)
+![Onion](https://img.shields.io/badge/Onion_Architecture-9B4F96?style=flat-square)
+![N-Tier](https://img.shields.io/badge/N--Tier_Architecture-9B4F96?style=flat-square)
 
 ---
 
