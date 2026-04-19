@@ -1,8 +1,9 @@
 <div align="center">
 
 # 👋 Hi, I'm Gamal Tolan  
-### 💻 .NET Backend Developer | Problem Solver
 
+### 💻 .NET Backend Developer |Software Engineer
+## 🌐 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/GamalTolan)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gamaltolan4@gmail.com)
 
@@ -67,12 +68,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=GamalTolan&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
+<img src="https://github-readme-stats.shion.dev/api?username=GamalTolan&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=GamalTolan&theme=shadow_green&hide_border=true&layout=compact" height="160"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=GamalTolan&theme=blueberry&hide_border=true&layout=compact" height="160"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=GamalTolan&theme=shadow_green&hide_border=true" height="160"/>
+<img src="https://streak-stats.demolab.com/?user=GamalTolan&theme=blueberry&hide_border=true" height="160"/>
 
 </div>
