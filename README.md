@@ -24,7 +24,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
 
-
+---
 ### 🌐 Web Development (.NET)
 - ASP.NET Core MVC
 - ASP.NET Web API
