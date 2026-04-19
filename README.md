@@ -3,9 +3,8 @@
 # 👋 Hi, I'm Gamal Tolan  
 ### .NET Backend Developer · Software Engineer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-GamalTolan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/GamalTolan)
-[![Email](https://img.shields.io/badge/Gmail-gamaltolan4@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gamaltolan4@gmail.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/GamalTolan) 
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gamaltolan4@gmail.com)
 </div>
 
 ---
@@ -40,12 +39,17 @@
 ---
 
 ## ⚙️ Architecture & Design
-SOLID • Design Patterns • Clean Architecture • Onion Architecture • N-Tier
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-000000?style=flat-square)
+![SOLID](https://img.shields.io/badge/SOLID_Principles-0e7a4e?style=flat-square)
+![Design Patterns](https://img.shields.io/badge/Design_Patterns-0e7a4e?style=flat-square)
+![Onion](https://img.shields.io/badge/Onion_Architecture-0e7a4e?style=flat-square)
+![N-Tier](https://img.shields.io/badge/N--Tier_Architecture-0e7a4e?style=flat-square)
 
 ---
 
 ## 🔄 Methodologies
-Agile / Scrum • SDLC
+![Agile](https://img.shields.io/badge/Agile_/_Scrum-0052CC?style=flat-square&logo=jira&logoColor=white)
+![SDLC](https://img.shields.io/badge/SDLC-0052CC?style=flat-square)
 
 ---
 
