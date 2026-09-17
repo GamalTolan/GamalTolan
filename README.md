@@ -80,24 +80,27 @@
 
 ---
 
+---
+
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=GamalTolan&show_icons=true&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=9B4F96&icon_color=9B4F96&text_color=c9d1d9&border_radius=10" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GamalTolan&theme=blueberry&hide_border=true&layout=compact&bg_color=0D1117&title_color=9B4F96&text_color=c9d1d9&border_radius=10" height="170"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=GamalTolan&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=0D1117&title_color=9B4F96&icon_color=9B4F96&text_color=c9d1d9&border_radius=12&cache_seconds=86400" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=GamalTolan&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default&title_color=9B4F96&icon_color=9B4F96&border_radius=12&cache_seconds=86400" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=GamalTolan&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=0D1117&title_color=9B4F96&icon_color=9B4F96&text_color=c9d1d9&border_radius=12&cache_seconds=86400" alt="GitHub Stats"/>
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GamalTolan&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=9B4F96&text_color=c9d1d9&border_radius=12&langs_count=8&cache_seconds=86400" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GamalTolan&layout=compact&hide_border=true&theme=default&title_color=9B4F96&border_radius=12&langs_count=8&cache_seconds=86400" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GamalTolan&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=9B4F96&text_color=c9d1d9&border_radius=12&langs_count=8&cache_seconds=86400" alt="Top Languages"/>
+</picture>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=GamalTolan&theme=blueberry&hide_border=true&background=0D1117&stroke=9B4F96&ring=9B4F96&fire=9B4F96&currStreakLabel=9B4F96&border_radius=10" height="170"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=GamalTolan&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GamalTolan&bg_color=0D1117&color=9B4F96&line=9B4F96&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" width="95%"/>
+<img height="180" src="https://streak-stats.demolab.com/?user=GamalTolan&hide_border=true&background=0D1117&stroke=9B4F96&ring=9B4F96&fire=9B4F96&currStreakLabel=9B4F96&sideLabels=9B4F96&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&border_radius=12" alt="GitHub Streak"/>
 
 </div>
 
