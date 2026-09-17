@@ -103,25 +103,24 @@
 
 ---
 
-<h2 align="center">🐍 Contribution Snake</h2>
+<h2 align="center">🌐 Let's Connect</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/GamalTolan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:gamaltolan4@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/GamalTolan" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/GamalTolan/GamalTolan/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <i>💡 "Code is like humor. When you have to explain it, it's bad." — Cory House</i>
 </div>
 
 <br/>
 
-<div align="center">
-
-### ⚙️ How to Enable the Snake Animation
-
-</div>
-
-<details>
-<summary><b>📖 اضغط هنا لعرض الخطوات كاملة (Click to expand)</b></summary>
-
-<br/>
-
-#### 1️⃣ Create the Workflow File
-
-Create a new file in your repository at this exact path:
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%"/>
