@@ -80,25 +80,76 @@
 
 ---
 
-<h2 align="center">📊 GitHub Analytics</h2>
+---
+
+<h2 align="center">⚡ Developer Snapshot</h2>
 
 <div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/📈_Contributions-113-9B4F96?style=for-the-badge&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/🔥_Current_Streak-1_day-9B4F96?style=for-the-badge&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/🏆_Longest_Streak-3_days-9B4F96?style=for-the-badge&labelColor=0D1117"/>
-</p>
+<table>
+<tr>
+<td align="center" width="50%">
 
-<p>
-  <img src="https://img.shields.io/github/followers/GamalTolan?label=👥%20Followers&style=for-the-badge&color=9B4F96&labelColor=0D1117"/>
-  <img src="https://img.shields.io/github/stars/GamalTolan?affiliations=OWNER&label=⭐%20Total%20Stars&style=for-the-badge&color=9B4F96&labelColor=0D1117"/>
-  <img src="https://img.shields.io/github/last-commit/GamalTolan/GamalTolan?label=🕐%20Last%20Update&style=for-the-badge&color=9B4F96&labelColor=0D1117"/>
-</p>
+### 🎯 What I Do
+
+> Building **scalable backend systems** with **.NET**
+> Turning complex problems into **clean solutions**
+
+</td>
+<td align="center" width="50%">
+
+### 💡 Philosophy
+
+> *"Clean code always looks like it was written*
+> *by someone who cares."*
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=GamalTolan&hide_border=true&background=0D1117&stroke=9B4F96&ring=9B4F96&fire=9B4F96&currStreakLabel=9B4F96&sideLabels=9B4F96&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&border_radius=12" alt="GitHub Streak"/>
+<div align="center">
+
+### 🚀 Currently Working On
+
+</div>
+
+<div align="center">
+
+| 🔥 Focus | 📚 Learning | 🎯 Goal |
+|:---:|:---:|:---:|
+| **.NET Web APIs** | **System Design** | **Scalable Architecture** |
+| **Clean Architecture** | **Microservices** | **Production-Ready Code** |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### ⚙️ Daily Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black&labelColor=0D1117"/>
+</p>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 💭 Random Dev Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
 
 </div>
 
